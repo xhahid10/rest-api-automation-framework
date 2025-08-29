@@ -1,0 +1,14 @@
+{
+"firstname": "Anish",
+"lastname " :"khan",
+"id" : "DC1",
+"Designation":"STL",
+"Address" :	{
+
+			"houseNo" :"1234",
+			"wardNo" :"11",
+			"landmark" :"Sector 23"
+
+			}
+
+}

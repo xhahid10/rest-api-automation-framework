@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.testing.testScripts.TC5_DeleteMethod"/>
+      <class name="org.testing.testScripts.TC2_GetAllMethod"/>
+      <class name="org.testing.testScripts.TC1_PostMethod"/>
+      <class name="org.testing.testScripts.TC4_PutMethod"/>
+      <class name="org.testing.testScripts.TC3_getParticularMethod"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

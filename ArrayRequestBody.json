@@ -1,0 +1,26 @@
+{
+"firstname": "Sameer",
+"lastname " :"khan",
+"id" : "DC1",
+"Designation":"ST",
+"Address" :	
+			[
+			{
+
+			"houseNo" :"11234",
+			"wardNo" :"111",
+			"landmark" :"Sector 2113"
+
+			},
+			
+			{
+			"houseNo" :"12334",
+			"wardNo" :"121",
+			"landmark" :"Sector 213"
+			
+			
+			
+			}
+			]
+
+}
